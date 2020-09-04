@@ -56,7 +56,7 @@ p {
 
 /* Home Page Image Style */
 
-figure{
+.HomepageImage{
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -94,7 +94,7 @@ aside {
     max-width: 150px;
 }
 
-/* Main Container styles*/
+/* Left Section styles*/
 
 .float-left {
     float: left;
@@ -106,7 +106,7 @@ aside {
     margin-left: 25px;
 }
 
-main {
+section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
